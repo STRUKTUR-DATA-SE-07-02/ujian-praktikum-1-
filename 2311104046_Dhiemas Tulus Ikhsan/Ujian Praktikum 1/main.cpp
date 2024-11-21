@@ -2,6 +2,10 @@
 #include <string>
 using namespace std;
 
+// Dhiemas Tulus Ikhsan
+// 2311104046 
+// SE-07-02
+
 struct infotype {
     string nama;
     string NIM;
