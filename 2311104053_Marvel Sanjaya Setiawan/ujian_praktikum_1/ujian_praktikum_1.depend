@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1732160967 source:d:\2311104053_marvel sanjaya setiawan\new folder\ujian_praktikum_1\main.cpp
+	"LinkedList.h"
+	"LinkedList.cpp"
+
+1732160729 d:\2311104053_marvel sanjaya setiawan\new folder\ujian_praktikum_1\linkedlist.h
+	<iostream>
+	<string>
+
+1732160860 d:\2311104053_marvel sanjaya setiawan\new folder\ujian_praktikum_1\linkedlist.cpp
+	"LinkedList.h"
+
